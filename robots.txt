@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oopheidaix.toekomst-stationsstraat.nl/sitemap.xml
